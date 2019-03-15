@@ -38,7 +38,7 @@ class App extends React.Component {
   
         <div className="App">
           <header>
-            <h1> Welcome to Rock Paper Scissors</h1>
+            <h1> Play Rock Paper Scissors</h1>
             <h2>Click an Icon below</h2>
           </header>
           <div>
